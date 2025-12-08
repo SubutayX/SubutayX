@@ -57,10 +57,6 @@
   <a href="https://www.linkedin.com/in/hllckc" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  </a>
-    <a href="https://git.halilcakici.com.tr/hllckc" target="_blank">
-    <img src="https://img.shields.io/badge/Forgejo-4A82C3?style=for-the-badge&logo=git&logoColor=white" alt="Forgejo">
-  </a>
   <a href="https://www.youtube.com/@Rusthane" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
