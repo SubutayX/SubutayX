@@ -41,16 +41,6 @@
 
 ## 📈 GitHub Aktivite
 
-''<div align="center">
-''  <img src="https://github-readme-stats.vercel.app/api?username=hllckc&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" height="180px"/>
- '' <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hllckc&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" height="180px"/>
-''</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=hllckc&theme=tokyonight&hide_border=true&border_radius=20&date_format=j%20M%5B%20Y%5D" />
-</div>
-
-
 
 <p align="center">
   <img src="https://hllckc.github.io/hllckc/github-contribution-grid-snake.svg" alt="snake animation" />
