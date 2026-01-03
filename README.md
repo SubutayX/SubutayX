@@ -112,3 +112,58 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ECDC4,100:FF6B6B&height=150&section=footer"/>
 </p>
+
+
+
+
+
+
+
+---
+
+## 🔬 Activity Graph – Deneme Alanı
+
+> Aşağıdaki grafikler **aynı verinin farklı görsel/animasyon hissi** veren versiyonlarıdır.  
+> Normalde **sadece biri** seçilir.
+
+---
+
+### 🟢 Wave / Area Efektli (hareket hissi veren)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IronPenguinX&theme=github-compact&hide_border=true&bg_color=000000&line=4ECDC4&point=FF6B6B&area=true" />
+</p>
+
+---
+
+### 🔵 Glow / Neon Hissiyatlı (modern, koyu tema)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IronPenguinX&theme=react-dark&hide_border=true&line=4ECDC4&point=4ECDC4" />
+</p>
+
+---
+
+### 🔴 Fake Motion (renk değişimiyle akış algısı)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IronPenguinX&theme=react-dark&hide_border=true&line=4ECDC4" />
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IronPenguinX&theme=react-dark&hide_border=true&line=FF6B6B" />
+</p>
+
+---
+
+### 🟣 Minimal & Clean (hareketsiz, CV tarzı)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IronPenguinX&theme=minimal&hide_border=true" />
+</p>
+
+---
+
+### 🐍 Gerçek Animasyon Referansı (Snake)
+> Bu grafik **GitHub Actions ile gerçek animasyon** üretir.
+
+<p align="center">
+  <img src="https://github.com/IronPenguinX/IronPenguinX/blob/output/github-contribution-grid-snake.svg?raw=true" />
+</p>
+
+---
+
