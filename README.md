@@ -80,6 +80,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ECDC4,100:FF6B6B&height=150&section=footer"/>
 </p>
 
+--------------------------
+<img src="https://github-readme-activity-graph.vercel.app/graph?
+username=IronPenguinX&
+theme=react-dark&
+hide_border=true" />
 
 
 
