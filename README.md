@@ -3,6 +3,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=200&section=header&text=IronPenguinX&fontSize=44&fontColor=F8F8FF&fontAlignY=35&animation=twinkling" />
 </p>
 
+<a href="https://www.blackcater.com" alt="blackcater's blog" target="_blank">
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-blog.svg" height="40" />
+</a>
+
+
+
 <!-- TYPING ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=4ECDC4&center=true&vCenter=true&width=750&lines=Embedded+Systems+Engineer;Rust+%7C+Bare+Metal+Firmware;STM32+%7C+ATmega328P+%7C+ARM+Cortex-M;Axum+Backend+Developer" />
