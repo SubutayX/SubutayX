@@ -8,11 +8,10 @@
   <img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="180" height="180" />
 </a>
 
-<!-- ================= TYPING ANIMATION ================= -->
+<!-- TYPING ANIMATION (CURRENT FOCUS) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=4ECDC4&center=true&vCenter=true&width=750&lines=Embedded+Systems+Engineer;Rust+%7C+Bare+Metal+Firmware;STM32+%7C+ATmega328P+%7C+ARM+Cortex-M;Axum+Backend+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=4ECDC4&center=true&vCenter=true&width=850&lines=Currently+working+on+Rust+Backend+Systems;Axum+%7C+JWT+%7C+RBAC+Authorization;High+Performance+API+Design;Linux+%7C+Docker+%7C+System+Programming" />
 </p>
-
 ---
 
 ## 🧠 Hakkımda
