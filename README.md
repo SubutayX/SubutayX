@@ -52,15 +52,8 @@
 
 ## 📈 GitHub Aktivite
 
-<!-- STATS -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IronPenguinX&show_icons=true&theme=radical&hide_border=true" />
-</p>
+<img src="https://streak-stats.demolab.com?user=IronPenguinX&theme=radical&hide_border=true" />
 
-<!-- STREAK -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=IronPenguinX&theme=radical&hide_border=true" />
-</p>
 
 <!-- ACTIVITY GRAPH -->
 <p align="center">
