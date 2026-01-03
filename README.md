@@ -1,17 +1,18 @@
 <!-- ================= PROFİL BANNER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=200&section=header&text=IronPenguinX&fontSize=44&fontColor=F8F8FF&fontAlignY=35&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=220&section=header&text=IronPenguinX&fontSize=46&fontColor=F8F8FF&fontAlignY=35&animation=twinkling" />
 </p>
 
-<!-- SAĞ ÜST ANİMASYON (tek başına bırakıldı) -->
-<a href="#">
-  <img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="180" height="180" />
-</a>
-
-<!-- TYPING ANIMATION (CURRENT FOCUS) -->
+<!-- TYPING ANIMATION (ODAK NOKTASI) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=4ECDC4&center=true&vCenter=true&width=850&lines=Currently+working+on+Rust+Backend+Systems;Axum+%7C+JWT+%7C+RBAC+Authorization;High+Performance+API+Design;Linux+%7C+Docker+%7C+System+Programming" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1200&color=4ECDC4&center=true&vCenter=true&width=900&lines=Currently+working+on+Rust+Backend+Systems;Axum+%7C+JWT+%7C+RBAC+Authorization;High+Performance+API+Design;Linux+%7C+Docker+%7C+System+Programming" />
 </p>
+
+<br/>
+
+<!-- SAĞ TARAF DEKORATİF ANİMASYON -->
+<img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="170" height="170" />
+
 ---
 
 ## 🧠 Hakkımda
@@ -47,7 +48,6 @@
   <img src="https://img.shields.io/badge/STM32CubeIDE-0A112D?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
 </p>
 
-<!-- MODERN SKILL ICONS (badge’leri tamamlayan modern görünüm) -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=rust,c,cpp,linux,git,docker,stm32&theme=dark" />
 </p>
@@ -56,12 +56,10 @@
 
 ## 📈 GitHub Aktivite
 
-<!-- ACTIVITY GRAPH -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IronPenguinX&theme=react-dark&hide_border=true" />
 </p>
 
-<!-- SNAKE -->
 <p align="center">
   <img src="https://github.com/IronPenguinX/IronPenguinX/blob/output/github-contribution-grid-snake.svg?raw=true" />
 </p>
@@ -91,14 +89,11 @@
   </a>
 </p>
 
-<!-- VISITOR COUNTER -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=IronPenguinX&style=for-the-badge&color=blueviolet" />
 </p>
 
----
-
 <!-- ================= FOOTER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ECDC4,100:FF6B6B&height=150&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ECDC4,100:FF6B6B&height=160&section=footer"/>
 </p>
