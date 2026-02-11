@@ -1,6 +1,6 @@
 <!-- ================= PROFİL BANNER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=200&section=header&text=IronPenguinX&fontSize=44&fontColor=F8F8FF&fontAlignY=35&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=200&section=header&text=SubutayX&fontSize=44&fontColor=F8F8FF&fontAlignY=35&animation=twinkling" />
 </p>
 
 <!-- ================= TYPING ANIMATION ================= -->
