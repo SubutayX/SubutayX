@@ -68,7 +68,7 @@
 
 <!-- ACTIVITY GRAPH -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IronPenguinX&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SubutayX&theme=react-dark&hide_border=true" />
 </p>
 
 <!-- SNAKE -->
