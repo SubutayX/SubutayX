@@ -73,7 +73,7 @@
 
 <!-- SNAKE -->
 <p align="center">
-  <img src="https://github.com/IronPenguinX/IronPenguinX/blob/output/github-contribution-grid-snake.svg?raw=true" />
+  <img src="https://github.com/SubutayX/SubutayX/blob/output/github-contribution-grid-snake.svg?raw=true" />
 </p>
 
 ---
