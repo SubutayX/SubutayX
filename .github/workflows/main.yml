@@ -2,11 +2,11 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Her gece 00:00'da çalışır
-  workflow_dispatch: # Manuel tetikleme sağlar (Test için önemli)
+    - cron: "0 0 * * *" # Her gece 00:00'da otomatik çalışır
+  workflow_dispatch: # Actions sekmesinden manuel tetikleme sağlar
   push:
     branches:
-    - main # Main branch'e her push attığında güncellenir
+    - main # Main branch'e kod pushladığında güncellenir
 
 jobs:
   generate:
