@@ -71,7 +71,7 @@
 
 <!-- ================= GITHUB CITY / 3D CONTRIB ================= -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SubutayX/SubutayX/main/profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub 3D City" />
+  <img src="https://raw.githubusercontent.com/SubutayX/SubutayX/city-output/profile-night-rainbow.svg" alt="GitHub 3D City" />
 </p>
 
 ---
