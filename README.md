@@ -62,9 +62,9 @@
 
 ---
 
-<!-- SNAKE -->
+<!-- ================= SNAKE ================= -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SubutayX/SubutayX/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/SubutayX/SubutayX/output/github-contribution-grid-pacman-dark.svg" alt="Pacman Animation" />
 </p>
 
 ---
@@ -76,10 +76,7 @@
 
 ---
 
-<!-- ================= PACMAN ================= -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SubutayX/SubutayX/output/github-contribution-grid-pacman-dark.svg" alt="Pacman Animation" />
-</p>
+
 
 ## 📬 Bana Ulaşın
 
