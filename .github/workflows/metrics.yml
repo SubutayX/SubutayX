@@ -1,0 +1,36 @@
+name: Generate Metrics (Isocalendar)
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    timeout-minutes: 15
+
+    steps:
+      - name: Generate Isocalendar SVG
+        uses: lowlighter/metrics@latest
+        with:
+          # Kaydedilecek dosyanın adı
+          filename: isocalendar.svg
+          
+          # Deponuza yazabilmesi için gerekli yetki
+          token: ${{ secrets.PAT }}
+          
+          # Çıktının hangi branch'e kaydedileceği (Snake ile aynı yere atıyoruz)
+          committer_branch: output
+          
+          # Temel istatistikleri kapatıyoruz (Sadece takvim görünmesi için)
+          base: ""
+          
+          # İzometrik takvim eklentisini aktif ediyoruz
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year # Son 1 yılı gösterir (half-year da yapılabilir)
