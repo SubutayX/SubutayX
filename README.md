@@ -75,10 +75,7 @@
 </p>
 
 ---
-<!-- ================= ISOCALENDAR ================= -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SubutayX/SubutayX/output/isocalendar.svg" alt="Metrics Isocalendar" />
-</p>
+
 
 
 ## 📬 Bana Ulaşın
