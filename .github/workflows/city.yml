@@ -21,7 +21,14 @@ jobs:
 
       - name: Generate City SVG
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        with:
-          GITHUB_USER: SubutayX
+        env:
           GITHUB_TOKEN: ${{ secrets.PAT }}
-          BRANCH: city-output
+          USERNAME: SubutayX
+
+      - name: Push to city-output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: city-output
+          build_dir: profile-3d-contrib
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
